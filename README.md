@@ -1,2 +1,2 @@
-# Dashboard_Resultados
+# Dashboard de Resultados
  
